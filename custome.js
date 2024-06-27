@@ -18,4 +18,4 @@ const addThree = (x,y,z) =>x+y+z;
 const doMath=(num1,num2)=>{
    const sum = num1 + num2;
    return sum;
-}
+};
